@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		84C8E8802BCD97AF00E2750F /* AppetizerDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C8E87F2BCD97AF00E2750F /* AppetizerDetailView.swift */; };
 		84EB76CF2BB088F800C7C19D /* RemoteImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84EB76CE2BB088F800C7C19D /* RemoteImage.swift */; };
 		BBC45D392B62AD8B00CA36B0 /* AppetizersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBC45D382B62AD8B00CA36B0 /* AppetizersApp.swift */; };
 		BBC45D3B2B62AD8B00CA36B0 /* AppetizerTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBC45D3A2B62AD8B00CA36B0 /* AppetizerTabView.swift */; };
@@ -25,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		84C8E87F2BCD97AF00E2750F /* AppetizerDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerDetailView.swift; sourceTree = "<group>"; };
 		84EB76CE2BB088F800C7C19D /* RemoteImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteImage.swift; sourceTree = "<group>"; };
 		BBC45D352B62AD8B00CA36B0 /* Appetizers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Appetizers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBC45D382B62AD8B00CA36B0 /* AppetizersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizersApp.swift; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 			children = (
 				BBFFF0DB2B680AD00089A64D /* AppetizerListViewModel.swift */,
 				BBC45D462B62B51700CA36B0 /* AppetizerListView.swift */,
+				84C8E87F2BCD97AF00E2750F /* AppetizerDetailView.swift */,
 			);
 			path = AppetizerListView;
 			sourceTree = "<group>";
@@ -282,6 +285,7 @@
 				BBFFF0E02B6814140089A64D /* LoadingView.swift in Sources */,
 				84EB76CF2BB088F800C7C19D /* RemoteImage.swift in Sources */,
 				BBC45D3B2B62AD8B00CA36B0 /* AppetizerTabView.swift in Sources */,
+				84C8E8802BCD97AF00E2750F /* AppetizerDetailView.swift in Sources */,
 				BBC45D512B62CDC300CA36B0 /* NetworkManager.swift in Sources */,
 				BBC45D392B62AD8B00CA36B0 /* AppetizersApp.swift in Sources */,
 				BBFFF0DE2B6813450089A64D /* Alert.swift in Sources */,
